@@ -35,7 +35,7 @@
     "live-server": "^1.2.2",
     "mini-css-extract-plugin": "^2.7.6",
     "prettier": "3.0.0",
-    "puppeteer": "^20.9.0",
+    "puppeteer": "^21.5.2",
     "webpack": "5.88.1",
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^4.15.1",
